@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    background-color: darkgray;
+}
+.menu{
+    background-color: black;
+    padding: 15px;
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+.menu  li{
+    background-color: rgb(59, 95, 92);
+    color: aliceblue;
+    list-style: none;
+    margin: 20px;
+    justify-content: space-around;
+    display: inline;
+    padding: 14px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+    
+
+}
+.titulo{
+    text-align: center;
+    text-decoration: underline;
+}
+
